@@ -17,7 +17,8 @@ Using the most recent release package, do the following.
 - Install [Prism](https://prismlauncher.org/download/), or [CurseForge](https://download.curseforge.com) and follow setup in either respective launcher. 
 - If on Windows skip this step, if not please read. Re-compress if on MacOS, it automatically decompresses .zip files that are downloaded, if you do not you will not be able to locate the file to import. 
 - For Prism, click on the top left corner button that says "Add Instance", then select "Import from Zip". Select the previously downloaded release zip and let install.
-- For CurseForge, click on "Create Custom Profile" near the top right corner. Then click "import" and select the previously downloaded release zip. 
+- For CurseForge, click on "Create Custom Profile" near the top right corner. Then click "import" and select the previously downloaded release zip.
+- Then add the four linked mods manually to the mod folder. After this, you should be good to go!
 
 # Recommendations
 
