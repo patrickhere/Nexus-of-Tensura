@@ -1,11 +1,8 @@
-<p align="center">
-  <img width="418" height="71" src="https://github.com/patrickhere/cobblemon-plus/assets/75187477/73d3237a-9996-43f5-9c55-6ede3cf9b416">
-</p>
+# Nexus of Tensura
 
 
-# 
 
-This is the official github and issue-tracker for Cobblemon Plus, a Forge 1.19.2 based modpack that has Cobblemon and addons, steampunk-ish tech mods like Create, magic like Forbidden and Arcanus, and exploratory mods like Relics and Enigmatic Legacy. 
+This is the official github and issue-tracker for Nexus of Tensura (name to be changed lol), a Forge 1.19.2 based modpack that revolves around Tensura Reincarnated, steampunk-ish tech mods like Create, magic like Botania, and exploratory mods like Relics and Enigmatic Legacy. 
 
 ### Table of Contents
 
