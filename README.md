@@ -1,8 +1,8 @@
-# Nexus of Tensura
+# Saucy Tensura Reincarnated
 
 
 
-This is the official github and issue-tracker for Nexus of Tensura (name to be changed lol), a Forge 1.19.2 based modpack that revolves around Tensura Reincarnated, steampunk-ish tech mods like Create, magic like Botania, and exploratory mods like Relics and Enigmatic Legacy. 
+This is the official GitHub and issue-tracker for "Saucy Tensura - Reincarnated", a Forge 1.19.2-based modpack that revolves around Tensura Reincarnated, steampunk-ish tech mods like Create, magic like Botania, and exploratory mods like Relics and Enigmatic Legacy. 
 
 ### Table of Contents
 
@@ -18,7 +18,6 @@ Using the most recent release package, do the following.
 - If on Windows skip this step, if not please read. Re-compress if on MacOS, it automatically decompresses .zip files that are downloaded, if you do not you will not be able to locate the file to import. 
 - For Prism, click on the top left corner button that says "Add Instance", then select "Import from Zip". Select the previously downloaded release zip and let install.
 - For CurseForge, click on "Create Custom Profile" near the top right corner. Then click "import" and select the previously downloaded release zip.
-- Then add the four linked mods manually to the mod folder. After this, you should be good to go!
 
 # Recommendations
 
